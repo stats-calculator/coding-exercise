@@ -1,0 +1,15 @@
+main {
+    margin-top: 50px;
+}
+
+#heading {
+    margin-bottom: 50px;
+}
+
+#results {
+    margin-bottom: 50px;
+}
+
+.numerical {
+    text-align: right;
+}
